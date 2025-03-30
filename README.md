@@ -1,3 +1,8 @@
+# Fonts-Japanese-extra-IV
+
+Collection of Japanese fonts for slackware Linux.
+The fonts included in this package:
+
 1. mikachan
     1. Mikachan
     2. Mikachan-P
